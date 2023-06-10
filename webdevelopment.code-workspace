@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../2.1+Using+Node/2.1 Using Node"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
